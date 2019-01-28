@@ -1,0 +1,6 @@
+DONE 
+- wake up
+- eat breakfast
+- eat lunch
+- eat dinner
+- sleep
