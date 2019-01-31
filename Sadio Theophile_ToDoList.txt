@@ -1,0 +1,25 @@
+Monday : 1. Go to School
+         2. Studied
+         3. Take care of the kids
+
+Tuesday: 1. Go to School
+         2. Studied
+         3. Take care of the kids
+
+Wednesday : 1. Go to School
+            2. Studied
+            3. Take care of the kids
+
+Thursday: 1. Go to School
+          2. Studied
+          3. Take care of the kids
+
+Friday : 1. Go to School
+         2. Studied
+         3. Go to work
+
+Sartuday: 1. Go to work
+          2. Studied
+
+Sunday :  1. Go to School
+          2. Studied
