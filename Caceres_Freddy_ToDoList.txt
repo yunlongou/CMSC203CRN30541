@@ -1,0 +1,12 @@
+- Wake up
+- Brush my teeth
+- Eat breakfast
+- Go to class
+- Eat lunch
+- Go to work
+- Go to the gym
+- Take a shower
+- Review class material
+- Do homework
+- Eat dinner
+- Go to sleep
