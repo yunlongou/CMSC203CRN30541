@@ -1,7 +1,10 @@
-- Wake up
-- Brush my teeth
-- Eat breakfast
-- Go to class
+DONE
+  - Wake up
+  - Brush my teeth
+  - Eat breakfast
+  - Go to class
+
+NOT DONE YET
 - Eat lunch
 - Go to work
 - Go to the gym
